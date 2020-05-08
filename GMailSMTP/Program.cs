@@ -6,7 +6,7 @@ namespace GMailSMTP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Setup for Gmail SMTP and hMailServer");
         }
     }
 }
